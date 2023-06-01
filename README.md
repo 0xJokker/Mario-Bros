@@ -1,6 +1,7 @@
 # Mario-Bros
-Mario Bros realizado y Estilado con CSS
+Mario Bros realizado y Estilado con CSS.
 
+![My Skills](https://skillicons.dev/icons?i=html,css)
 
 ![MarioBros](https://github.com/JokerC0/Mario-Bros/assets/129913584/8b009e7a-4cd1-4ee0-b63d-b5843fd9ccd4)
 
